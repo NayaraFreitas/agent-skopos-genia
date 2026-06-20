@@ -1,0 +1,24 @@
+{
+  "usuario": "Camila Silva",
+  "perfil_planejamento": "Focado",
+  "renda_mensal": 5000.0,
+  "capacidade_poupanca_mes": 1000.0,
+  "metas_ativas": [
+    {
+      "id": 1,
+      "descricao": "Reserva de Emergência",
+      "valor_alvo": 12000.0,
+      "valor_atual": 4500.0,
+      "prazo_meses": 12,
+      "prioridade": "Alta"
+    },
+    {
+      "id": 2,
+      "descricao": "Notebook Novo para Estudos",
+      "valor_alvo": 4000.0,
+      "valor_atual": 1500.0,
+      "prazo_meses": 5,
+      "prioridade": "Média"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+data         categoria                 descricao   valor     tipo
+2026-06-01     Receita            Salário Mensal   5000.00   credito
+2026-06-02   Habitação      Aluguel e Condomínio   1800.00   debito
+2026-06-05 Alimentação              Supermercado   650.00    debito
+2026-06-12 Alimentação    Delivery Fim de Semana   150.00    debito
+2026-06-10       Lazer           Cinema e Jantar   180.00    debito

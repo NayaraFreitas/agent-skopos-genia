@@ -1,0 +1,20 @@
+# Ambiente Virtual (Python venv)
+.venv/
+venv/
+ENV/
+env/
+
+# Chaves de API e Configurações Locais (Segurança!)
+.env
+.env.local
+
+# Arquivos temporários do Python e do Streamlit
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.streamlit/config.toml
+
+# Arquivos do Sistema Operacional
+Thumbs.db
+.DS_Store
